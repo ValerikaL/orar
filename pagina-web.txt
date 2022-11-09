@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Universitatea de Stat "Alecu Russo" din Balti </title>
+</head>
+<body style="IMG SRC="universitatea.jpg""></body>
+<h1 align=center> Universitatea de Stat "Alecu Russo" din Balti</h1>
+<input type=button value=" Orarul Cursurilor"><br><br>
+<input type=button value=" Grupe"><br><br><input type=button value=" Profesori"><br><br><input type=button value="Studenti"><br><br>
+</body>
+<IMG SRC="logo.jpg" align=right hspace=10 vscape=10>
+</html>
